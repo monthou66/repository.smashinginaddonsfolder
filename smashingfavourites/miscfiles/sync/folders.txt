@@ -1,0 +1,14 @@
+advancedsettings
+backups
+changes
+customkeymaps
+icons
+leiafavourites
+logfiles
+miscfiles
+options
+optionsinfo
+pathsubs
+scripts
+smashingspecifics
+tempfiles

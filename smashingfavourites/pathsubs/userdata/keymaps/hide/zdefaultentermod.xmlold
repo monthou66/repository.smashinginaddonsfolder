@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<keymap>
+  <Music>
+    <keyboard>
+      <enter>RunScript(special://userdata/smashing/smashingfavourites/scripts/testscripts/entermod.py)</enter>
+      <return>RunScript(special://userdata/smashing/smashingfavourites/scripts/testscripts/entermod.py)</return>
+    </keyboard>
+    <remote>
+      <enter>RunScript(special://userdata/smashing/smashingfavourites/scripts/testscripts/entermod.py)</enter>	
+    </remote>	
+  </Music>
+  <Videos>
+    <keyboard>
+      <enter>RunScript(special://userdata/smashing/smashingfavourites/scripts/testscripts/entermod.py)</enter>
+      <return>RunScript(special://userdata/smashing/smashingfavourites/scripts/testscripts/entermod.py)</return>
+    </keyboard>
+    <remote>
+      <enter>RunScript(special://userdata/smashing/smashingfavourites/scripts/testscripts/entermod.py)</enter>  
+    </remote>	
+  </Videos>
+</keymap>

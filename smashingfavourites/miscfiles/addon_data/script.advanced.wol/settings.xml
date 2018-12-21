@@ -1,0 +1,22 @@
+<settings>
+    <setting id="autostart" value="false" />
+    <setting id="continuousWol" value="false" />
+    <setting id="continuousWolAfterStandby" value="false" />
+    <setting id="continuousWolDelay" value="30" />
+    <setting id="disablePingHostupCheck" value="true" />
+    <setting id="enableErrorNotifies" value="false" />
+    <setting id="enableHostupNotifies" value="false" />
+    <setting id="enableLaunchNotifies" value="true" />
+    <setting id="enablePingCounterNotifies" value="false" />
+    <setting id="hostOrIp" value="192.168.1.25" />
+    <setting id="hostupWaitTime" value="10" />
+    <setting id="libraryUpdatesDelay" value="10" />
+    <setting id="macAddress" value="90:FB:A6:E4:BF:BC" />
+    <setting id="pingTimeout" value="30" />
+    <setting id="separator" value="" />
+    <setting id="updateMusicLibraryAfterWol" value="false" />
+    <setting id="updateVideoLibraryAfterWol" value="false" />
+    <setting id="wolAfterStandby" value="false" />
+    <setting id="wolDelayAfterStandby" value="0" />
+    <setting id="wolDelayOnLaunch" value="0" />
+</settings>

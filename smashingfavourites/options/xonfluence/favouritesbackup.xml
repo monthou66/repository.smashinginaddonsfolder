@@ -1,0 +1,7 @@
+<favourites>
+    <favourite name="Choose More" thumb="special://masterprofile/smashing/smashingfavourites/icons/xonfluence.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/smashingfavourites.py, choose)</favourite>
+    <favourite name="Restore test" thumb="special://masterprofile/smashing/smashingfavourites/icons/xonfluence.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/skinscripts/smashingxonfluence.py, restore, test)</favourite>
+    <favourite name="Restore test2" thumb="special://masterprofile/smashing/smashingfavourites/icons/xonfluence.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/skinscripts/smashingxonfluence.py, restore, test2)</favourite>
+    <favourite name="Restore test" thumb="special://masterprofile/smashing/smashingfavourites/icons/xonfluence.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/skinscripts/smashingxonfluence.py, restore, test)</favourite>
+</favourites>
+<!--name is Custom.smashing.xonfluence2171-->

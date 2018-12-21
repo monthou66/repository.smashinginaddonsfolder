@@ -1,0 +1,7 @@
+<mediasources>
+    <network>
+	    <location id="0">smb://Source smashing</location>
+	    <location id="1">smb://Source Install Folder</location>
+	    <location id="2">smb://Source neufbox</location>		
+    </network>
+</mediasources>

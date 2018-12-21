@@ -1,0 +1,11 @@
+<settings>
+    <setting id="action.four" value="not set" />
+    <setting id="action.one" value="not set" />
+    <setting id="action.three" value="not set" />
+    <setting id="action.two" value="not set" />
+    <setting id="extra.actions.enable" value="false" />
+    <setting id="homecheck.frequency" value="2" />
+    <setting id="prompt" value="true" />
+    <setting id="time.prompt" value="60" />
+    <setting id="time.wait" value="1" />
+</settings>

@@ -1,0 +1,66 @@
+node order
+
+defaults:
+
+video - in root
+addons						22		type="folder"
+files						20		type="folder"
+playlists					21		type="folder"
+
+
+video - movies											See these listed if click on 'Movies' in root of videos
+actors						4		type="filter"
+country						8		type="filter"
+directors					5		type="filter"
+genres						1		type="filter"
+index						1		visible="Library.HasContent(Movies)"
+recentlyaddedmovies			10		visible="Library.HasContent(Movies)"
+sets						7		visible="Library.HasContent(MovieSets)"
+studios						6		type="filter"
+tags						9		type="filter"
+titles						2		type="filter"
+year						3		type="filter"
+
+video - musicvideos
+albums						5		type="filter"
+artists						4		type="filter"
+directors					6		type="filter"
+genres						1		type="filter"
+index						3		visible="Library.HasContent(MusicVideos)"
+recentlyaddedmusicvideos	12		visible="Library.HasContent(MusicVideos)"
+studios						7		type="filter"
+tags						8		type="filter"
+titles						2		type="filter"
+years						3		type="filter"
+
+video - tv shows
+actors						4		type="filter"
+genres						1		type="filter"
+index						2		visible="Library.HasContent(TVShows)"
+inprogresstvshows			4		visible="Library.HasContent(TVShows)"
+recentlyaddedepisodes		11		visible="Library.HasContent(TVShows)"
+studios						5		type="filter"
+tags						6		type="filter"
+titles						2		type="filter"
+years						3		type="filter"
+
+
+video_flat
+addons						22		type="folder"
+files						20		type="folder"
+inprogressshows				4		visible="Library.HasContent(TVShows)"
+movies						1		visible="Library.HasContent(Movies)"
+musicvideos					3		visible="Library.HasContent(MusicVideos)"
+playlists					21		type="folder"
+recentlyaddedepisodes		11		visible="Library.HasContent(TVShows)"
+recentlyaddedmovies			10		visible="Library.HasContent(Movies)"
+recentlyaddedmusicvideos	12		visible="Library.HasContent(MusicVideos)"
+tvshows						2		visible="Library.HasContent(TVShows)"
+
+
+
+
+
+
+
+

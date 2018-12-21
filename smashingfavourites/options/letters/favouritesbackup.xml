@@ -1,0 +1,34 @@
+<favourites>
+    <favourite name="Choose More" thumb="special://masterprofile/smashing/smashingfavourites/icons/letters.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/smashingfavourites.py, choose)</favourite>
+    <favourite name="Top" thumb="special://masterprofile/smashing/smashingfavourites/icons/letters.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/letters/smashingletters.py,Top)</favourite>
+    <favourite name="Next Letter" thumb="special://masterprofile/smashing/smashingfavourites/icons/letters.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/letters/smashingletters.py,Next Letter)</favourite>	
+    <favourite name="Previous Letter" thumb="special://masterprofile/smashing/smashingfavourites/icons/letters.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/letters/smashingletters.py,Previous Letter)</favourite>	
+    <favourite name="A" thumb="special://masterprofile/smashing/smashingfavourites/icons/letters.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/letters/smashingletters.py,A)</favourite>	
+    <favourite name="B" thumb="special://masterprofile/smashing/smashingfavourites/icons/letters.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/letters/smashingletters.py,B)</favourite>	
+    <favourite name="C" thumb="special://masterprofile/smashing/smashingfavourites/icons/letters.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/letters/smashingletters.py,C)</favourite>	
+    <favourite name="D" thumb="special://masterprofile/smashing/smashingfavourites/icons/letters.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/letters/smashingletters.py,D)</favourite>	
+    <favourite name="E" thumb="special://masterprofile/smashing/smashingfavourites/icons/letters.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/letters/smashingletters.py,E)</favourite>	
+    <favourite name="F" thumb="special://masterprofile/smashing/smashingfavourites/icons/letters.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/letters/smashingletters.py,F)</favourite>	
+    <favourite name="G" thumb="special://masterprofile/smashing/smashingfavourites/icons/letters.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/letters/smashingletters.py,G)</favourite>	
+    <favourite name="H" thumb="special://masterprofile/smashing/smashingfavourites/icons/letters.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/letters/smashingletters.py,H)</favourite>	
+    <favourite name="I" thumb="special://masterprofile/smashing/smashingfavourites/icons/letters.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/letters/smashingletters.py,I)</favourite>	
+    <favourite name="J" thumb="special://masterprofile/smashing/smashingfavourites/icons/letters.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/letters/smashingletters.py,J)</favourite>	
+    <favourite name="K" thumb="special://masterprofile/smashing/smashingfavourites/icons/letters.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/letters/smashingletters.py,K)</favourite>	
+    <favourite name="L" thumb="special://masterprofile/smashing/smashingfavourites/icons/letters.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/letters/smashingletters.py,L)</favourite>	
+    <favourite name="M" thumb="special://masterprofile/smashing/smashingfavourites/icons/letters.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/letters/smashingletters.py,M)</favourite>	
+    <favourite name="N" thumb="special://masterprofile/smashing/smashingfavourites/icons/letters.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/letters/smashingletters.py,N)</favourite>	
+    <favourite name="O" thumb="special://masterprofile/smashing/smashingfavourites/icons/letters.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/letters/smashingletters.py,O)</favourite>	
+    <favourite name="P" thumb="special://masterprofile/smashing/smashingfavourites/icons/letters.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/letters/smashingletters.py,P)</favourite>	
+    <favourite name="Q" thumb="special://masterprofile/smashing/smashingfavourites/icons/letters.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/letters/smashingletters.py,Q)</favourite>	
+    <favourite name="R" thumb="special://masterprofile/smashing/smashingfavourites/icons/letters.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/letters/smashingletters.py,R)</favourite>	
+    <favourite name="S" thumb="special://masterprofile/smashing/smashingfavourites/icons/letters.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/letters/smashingletters.py,S)</favourite>	
+    <favourite name="T" thumb="special://masterprofile/smashing/smashingfavourites/icons/letters.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/letters/smashingletters.py,T)</favourite>	
+    <favourite name="U" thumb="special://masterprofile/smashing/smashingfavourites/icons/letters.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/letters/smashingletters.py,U)</favourite>	
+    <favourite name="V" thumb="special://masterprofile/smashing/smashingfavourites/icons/letters.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/letters/smashingletters.py,V)</favourite>	
+    <favourite name="W" thumb="special://masterprofile/smashing/smashingfavourites/icons/letters.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/letters/smashingletters.py,W)</favourite>
+    <favourite name="X" thumb="special://masterprofile/smashing/smashingfavourites/icons/letters.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/letters/smashingletters.py,X)</favourite>	
+    <favourite name="Y" thumb="special://masterprofile/smashing/smashingfavourites/icons/letters.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/letters/smashingletters.py,Y)</favourite>	
+    <favourite name="Z" thumb="special://masterprofile/smashing/smashingfavourites/icons/letters.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/letters/smashingletters.py,Z)</favourite>
+    <favourite name="Bottom" thumb="special://masterprofile/smashing/smashingfavourites/icons/letters.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/letters/smashingletters.py,Bottom)</favourite>
+</favourites>
+<!--name is Custom.smashing.letters2159--><!--Letters-->

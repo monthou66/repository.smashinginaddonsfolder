@@ -1,0 +1,165 @@
+<sources>
+    <programs>
+        <default pathversion="1"></default>
+    </programs>
+    <video>
+        <default pathversion="1"></default>
+        <source>
+            <name>Home videos</name>
+            <path pathversion="1">smb://Source Home videos</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>Set - Cartoons</name>
+            <path pathversion="1">smb://Source Cartoons</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>Set - Films</name>
+            <path pathversion="1">smb://Source Films</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>Set - Music Videos</name>
+            <path pathversion="1">smb://Source Music Videos</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>Set - Science and Nature</name>
+            <path pathversion="1">smb://Source Science and Nature/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>Set - TV series</name>
+            <path pathversion="1">smb://SourceTV1series</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>Set - TV series completed</name>
+            <path pathversion="1">smb://SourceTV2completedseries</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>Set - TV series completed shared</name>
+            <path pathversion="1">smb://SourceTV4completedsharedseries</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>Set - TV series Liam</name>
+            <path pathversion="1">smb://SourceTV5seriesLiam</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>Set - TV series shared</name>
+            <path pathversion="1">smb://SourceTV3sharedseries</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>Sport</name>
+            <path pathversion="1">smb://Source Sport</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>TV Recordings</name>
+            <path pathversion="1">smb://SourceTVRecordings</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>TV Timeshift</name>
+            <path pathversion="1">smb://SourceTVTimeshift</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>Windows network (SMB)</name>
+            <path pathversion="1">smb://</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>Odds and ends</name>
+            <path pathversion="1">smb://Source oddsandendsone/</path>
+            <path pathversion="1">smb://Source oddsandendstwo/</path>
+            <path pathversion="1">smb://Source oddsandendsthree/</path>
+            <path pathversion="1">smb://Source oddsandendsfour/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+    </video>
+    <music>
+        <default pathversion="1">Music</default>
+        <source>
+            <name>Music</name>
+            <path pathversion="1">smb://Source Music</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>Audio</name>
+            <path pathversion="1">smb://Source Audio</path>
+            <allowsharing>true</allowsharing>
+        </source>
+    </music>
+    <pictures>
+        <default pathversion="1"></default>
+        <source>
+            <name>Google Photos</name>
+            <path pathversion="1">smb://Source GooglePhotos</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>Screenshots</name>
+            <path pathversion="1">special://masterprofile/smashing/smashingfavourites/miscfiles/screenshots</path>
+            <allowsharing>true</allowsharing>
+        </source>
+    </pictures>
+    <files>
+        <default pathversion="1"></default>
+        <source>
+            <name>Install Folder</name>
+            <path pathversion="1">smb://Source Install Folder</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>home kodi folder</name>
+            <path pathversion="1">special://home/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>flash</name>
+            <path pathversion="1">/flash/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>storage</name>
+            <path pathversion="1">/storage/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>Internal sd card</name>
+            <path pathversion="1">/media/Beelinkextra/internalemmc/media/0/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>root</name>
+            <path pathversion="1">/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>backup</name>
+            <path pathversion="1">/storage/backup/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>Windows network (SMB)</name>
+            <path pathversion="1">smb://</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>Smashing Artwork</name>
+            <path pathversion="1">smb://Source smashingartwork</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>Smashing</name>
+            <path pathversion="1">smb://Source smashing</path>
+            <allowsharing>true</allowsharing>
+        </source>
+    </files>
+</sources>

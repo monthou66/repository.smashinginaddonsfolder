@@ -1,0 +1,12 @@
+<favourites>
+    <favourite name="Choose More" thumb="special://masterprofile/smashing/smashingfavourites/icons/audio.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/smashingfavourites.py, choose)</favourite>
+    <favourite name="Audio0 Toggle" thumb="special://masterprofile/smashing/smashingfavourites/icons/audio.png">RunScript(script.audio.profiles,0)</favourite>
+    <favourite name="Audio1 HDMITV" thumb="special://masterprofile/smashing/smashingfavourites/icons/audio.png">RunScript(script.audio.profiles,1)</favourite>
+    <favourite name="Audio2 Bluetooth" thumb="special://masterprofile/smashing/smashingfavourites/icons/audio.png">RunScript(script.audio.profiles,2)</favourite>
+    <favourite name="Audio3 HDMIAmp" thumb="special://masterprofile/smashing/smashingfavourites/icons/audio.png">RunScript(script.audio.profiles,3)</favourite>		
+    <favourite name="Connect Old Bluetooth" thumb="special://masterprofile/smashing/smashingfavourites/icons/audio.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/audioscripts/connectoldbluetooth.py)</favourite>
+    <favourite name="Connect white USB Bluetooth" thumb="special://masterprofile/smashing/smashingfavourites/icons/audio.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/audioscripts/connectwhiteusbbluetooth.py)</favourite>
+    <favourite name="Connect USB1 Bluetooth" thumb="special://masterprofile/smashing/smashingfavourites/icons/audio.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/audioscripts/connectusb1bluetooth.py)</favourite>	
+	<favourite name="Libreelec settings" thumb="special://masterprofile/smashing/smashingfavourites/icons/audio.png">RunAddon(service.libreelec.settings)</favourite>
+</favourites>
+<!--name is Custom.smashing.audio2152--><!--Audio-->

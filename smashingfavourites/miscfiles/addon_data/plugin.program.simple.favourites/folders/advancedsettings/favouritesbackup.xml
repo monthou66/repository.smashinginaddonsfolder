@@ -1,0 +1,5 @@
+<favourites>
+    <favourite name="Choose More" thumb="special://masterprofile/smashing/smashingfavourites/icons/advancedsettings.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/smashingfavourites.py, choose)</favourite>		
+    <favourite name="Advanced Settings" thumb="special://masterprofile/smashing/smashingfavourites/icons/advancedsettings.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/advancedsettings/advancedsettings.py)</favourite>	
+</favourites>
+<!--name is Custom.smashing.advancedsettings2174-->

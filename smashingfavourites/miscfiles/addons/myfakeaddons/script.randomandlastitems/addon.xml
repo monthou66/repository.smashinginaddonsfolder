@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="script.randomandlastitems" name="Random and Last items disabled" version="5.9.9" provider-name="Me">
+    <requires>
+        <import addon="xbmc.python" version="2.1.0"/>
+        <import addon="xbmc.json" version="6.0.0"/>
+        <import addon="script.module.simplejson" version="2.0.10"/>
+    </requires>
+    <extension point="xbmc.python.library" library="randomandlastitems.py" />
+    <extension point="xbmc.addon.metadata">
+        <summary lang="en">Does bugger all</summary>
+        <description lang="en">Does bugger all</description>
+		<disclaimer lang="en">Whatever</disclaimer>		
+        <summary lang="fr">Does bugger all</summary>
+        <platform>all</platform>
+        <website></website>
+        <source>my.armpit</source>
+        <forum>not.really</forum>
+        <email></email>
+    </extension>
+</addon>

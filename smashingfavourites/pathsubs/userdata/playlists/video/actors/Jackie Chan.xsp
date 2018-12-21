@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<smartplaylist type="movies">
+    <name>Jackie Chan</name>
+    <match>all</match>
+    <rule field="actor" operator="is">
+        <value>Jackie Chan</value>
+    </rule>
+    <group>none</group>
+    <order direction="ascending">year</order>
+</smartplaylist>

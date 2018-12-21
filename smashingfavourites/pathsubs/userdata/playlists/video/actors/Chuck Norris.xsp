@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<smartplaylist type="movies">
+    <name>Chuck Norris</name>
+    <match>all</match>
+    <rule field="actor" operator="is">
+        <value>Chuck Norris</value>
+    </rule>
+    <group>none</group>
+    <order direction="ascending">year</order>
+</smartplaylist>

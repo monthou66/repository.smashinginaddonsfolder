@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<keymap>
+  <global>
+    <remote>
+       <mypictures>RunScript(special://userdata/smashing/smashingfavourites/scripts/smashingfavourites.py, choose)</mypictures> 
+    </remote>	
+  </global>  
+  <FileBrowser>
+    <remote>
+       <forward>RunScript(special://userdata/smashing/smashingfavourites/scripts/smashingfavourites.py, letters)</forward>
+       <skipplus>RunScript(special://userdata/smashing/smashingfavourites/scripts/smashingfavourites.py, letters)</skipplus>
+       <stop>RunScript(special://userdata/smashing/smashingfavourites/scripts/smashingfavourites.py, letters)</stop>
+    </remote>	
+  </FileBrowser>
+  <Music>
+    <remote>
+       <forward>RunScript(special://userdata/smashing/smashingfavourites/scripts/smashingfavourites.py, letters)</forward>
+       <skipplus>RunScript(special://userdata/smashing/smashingfavourites/scripts/smashingfavourites.py, letters)</skipplus>
+       <stop>RunScript(special://userdata/smashing/smashingfavourites/scripts/smashingfavourites.py, letters)</stop>
+    </remote>
+  </Music>  
+  <Videos>
+    <remote>
+       <forward>RunScript(special://userdata/smashing/smashingfavourites/scripts/smashingfavourites.py, letters)</forward>
+       <skipplus>RunScript(special://userdata/smashing/smashingfavourites/scripts/smashingfavourites.py, letters)</skipplus>
+       <stop>RunScript(special://userdata/smashing/smashingfavourites/scripts/smashingfavourites.py, letters)</stop>
+    </remote>
+  </Videos>
+  <Favourites>
+    <keyboard>
+       <f>Right</f>
+	   <r>Left</r>
+       <period>Right</period>
+	   <comma>Left</comma>
+       <right>noop</right>
+       <volume_mute>noop</volume_mute>	   
+       <zero>noop</zero>	  
+       <one>noop</one>
+       <two>noop</two>
+       <three>noop</three>
+       <four>noop</four>
+       <five>noop</five>
+       <six>noop</six>
+       <seven>noop</seven>
+       <eight>noop</eight>
+       <nine>noop</nine>	   
+    </keyboard>
+    <remote>
+       <forward>Right</forward>
+       <reverse>Left</reverse>	   
+       <skipplus>Right</skipplus>
+	   <skipminus>Left</skipminus>
+       <stop>Right</stop>
+       <right>noop</right>
+       <mute>noop</mute>	   
+       <zero>noop</zero>	  
+       <one>noop</one>
+       <two>noop</two>
+       <three>noop</three>
+       <four>noop</four>
+       <five>noop</five>
+       <six>noop</six>
+       <seven>noop</seven>
+       <eight>noop</eight>
+       <nine>noop</nine>	   	   
+    </remote>
+  </Favourites>  
+</keymap>

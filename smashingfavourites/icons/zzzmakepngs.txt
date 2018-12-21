@@ -1,0 +1,5 @@
+http://www.online-image-editor.com/
+
+512 x 512 transparent canvas.
+
+Make text (white) > apply > save

@@ -1,0 +1,14 @@
+<favourites>
+    <favourite name="Choose More" thumb="special://masterprofile/smashing/smashingfavourites/icons/tv-settings.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/smashingfavourites.py, choose)</favourite>
+    <favourite name="All options" thumb="special://masterprofile/smashing/smashingfavourites/icons/tv-settings.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/smashingfavourites.py, alloptions)</favourite>
+    <favourite name="TV" thumb="special://masterprofile/smashing/smashingfavourites/icons/tv-settings.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/smashingfavourites.py, tv)</favourite>
+    <favourite name="Satellite TV" thumb="special://masterprofile/smashing/smashingfavourites/icons/tv-settings.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/smashingfavourites.py, tv-sat)</favourite>
+    <favourite name="IPTV" thumb="special://masterprofile/smashing/smashingfavourites/icons/tv-settings.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/smashingfavourites.py, tv-iptv)</favourite>
+    <favourite name="TV extras" thumb="special://masterprofile/smashing/smashingfavourites/icons/tv-settings.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/smashingfavourites.py, tv-extras)</favourite>
+    <favourite name="cleardb" thumb="special://masterprofile/smashing/smashingfavourites/icons/tv-settings.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/tvscripts/smashingstartpvr.py, cleardb)</favourite>
+    <favourite name="reset" thumb="special://masterprofile/smashing/smashingfavourites/icons/tv-settings.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/tvscripts/smashingstartpvr.py, reset)</favourite>
+    <favourite name="refresh" thumb="special://masterprofile/smashing/smashingfavourites/icons/tv-settings.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/tvscripts/smashingstartpvr.py, refresh)</favourite>
+    <favourite name="disable" thumb="special://masterprofile/smashing/smashingfavourites/icons/tv-settings.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/tvscripts/smashingstartpvr.py, disable)</favourite>
+    <favourite name="get current status" thumb="special://masterprofile/smashing/smashingfavourites/icons/tv-settings.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/tvscripts/smashingstartpvr.py,getstatus)</favourite>
+</favourites>
+<!--name is Custom.smashing.tv-settings2181--><!--TV Settings-->

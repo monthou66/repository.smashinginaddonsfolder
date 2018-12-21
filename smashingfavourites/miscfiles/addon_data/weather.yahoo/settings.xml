@@ -1,0 +1,12 @@
+<settings>
+    <setting id="Location1" value="Hinckley (GB)" />
+    <setting id="Location1id" value="23518" />
+    <setting id="Location2" value="Teignmouth (GB)" />
+    <setting id="Location2id" value="37072" />
+    <setting id="Location3" value="Montrichard (FR)" />
+    <setting id="Location3id" value="613082" />
+    <setting id="Location4" value="Murcia (ES)" />
+    <setting id="Location4id" value="768026" />
+    <setting id="Location5" value="" />
+    <setting id="Location5id" value="" />
+</settings>

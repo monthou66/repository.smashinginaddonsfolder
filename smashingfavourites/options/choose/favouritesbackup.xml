@@ -1,0 +1,19 @@
+<favourites>
+    <favourite name="All options" thumb="special://masterprofile/smashing/smashingfavourites/icons/choose.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/smashingfavourites.py, alloptions)</favourite>
+    <favourite name="Leia Default Favourites" thumb="special://masterprofile/smashing/smashingfavourites/icons/choose.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/smashingfavourites.py, leiadefault)</favourite>
+    <favourite name="Actors" thumb="special://masterprofile/smashing/smashingfavourites/icons/choose.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/smashingfavourites.py, actors)</favourite>
+    <favourite name="General Favoutites" thumb="special://masterprofile/smashing/smashingfavourites/icons/choose.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/smashingfavourites.py, general)</favourite>
+    <favourite name="Install" thumb="special://masterprofile/smashing/smashingfavourites/icons/choose.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/smashingfavourites.py, install)</favourite>
+    <favourite name="Keymaps" thumb="special://masterprofile/smashing/smashingfavourites/icons/choose.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/smashingfavourites.py, keymaps)</favourite>
+    <favourite name="Kodi Functions" thumb="special://masterprofile/smashing/smashingfavourites/icons/choose.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/smashingfavourites.py, kodifunctions)</favourite>
+    <favourite name="Letters" thumb="special://masterprofile/smashing/smashingfavourites/icons/choose.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/smashingfavourites.py, letters)</favourite>
+    <favourite name="Music" thumb="special://masterprofile/smashing/smashingfavourites/icons/choose.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/smashingfavourites.py, music)</favourite>
+    <favourite name="Playlists" thumb="special://masterprofile/smashing/smashingfavourites/icons/choose.png">ActivateWindow(Videos,special://masterprofile/playlists/video)</favourite>
+    <favourite name="Power" thumb="special://masterprofile/smashing/smashingfavourites/icons/choose.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/smashingfavourites.py, power)</favourite>
+    <favourite name="Skins" thumb="special://masterprofile/smashing/smashingfavourites/icons/choose.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/smashingfavourites.py, skins)</favourite>
+    <favourite name="Switch addon data" thumb="special://masterprofile/smashing/smashingfavourites/icons/choose.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/smashingfavourites.py, switchaddondata)</favourite>
+    <favourite name="TV" thumb="special://masterprofile/smashing/smashingfavourites/icons/choose.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/smashingfavourites.py, tv)</favourite>
+    <favourite name="Utilities" thumb="special://masterprofile/smashing/smashingfavourites/icons/choose.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/smashingfavourites.py, utilities)</favourite>
+    <favourite name="Years" thumb="special://masterprofile/smashing/smashingfavourites/icons/choose.png">ActivateWindow(Videos,special://masterprofile/playlists/video/years)</favourite>
+</favourites>
+<!--name is Custom.smashing.choose2154--><!--Choose less-->

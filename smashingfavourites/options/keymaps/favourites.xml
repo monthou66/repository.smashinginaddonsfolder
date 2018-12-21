@@ -1,0 +1,7 @@
+<favourites>
+    <favourite name="Choose More" thumb="special://masterprofile/smashing/smashingfavourites/icons/keymaps.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/smashingfavourites.py, choose)</favourite>
+	<favourite name="Restore default keymaps" thumb="special://masterprofile/smashing/smashingfavourites/icons/keymaps.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/keymaps/smashingkeymaps.py, default, load)</favourite>
+	<favourite name="Backup default keymaps" thumb="special://masterprofile/smashing/smashingfavourites/icons/keymaps.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/keymaps/smashingkeymaps.py, default, backup)</favourite>
+	<favourite name="Reload keymaps" thumb="special://masterprofile/smashing/smashingfavourites/icons/keymaps.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/keymaps/reloadkeymaps.py, default, backup)</favourite>
+</favourites>
+<!--name is Custom.smashing.keymaps2157--><!--Keymaps-->

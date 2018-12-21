@@ -1,0 +1,29 @@
+<favourites>
+    <favourite name="Choose More" thumb="special://masterprofile/smashing/smashingfavourites/icons/tv.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/smashingfavourites.py, choose)</favourite>
+    <favourite name="Choose Channels" thumb="special://masterprofile/smashing/smashingfavourites/icons/tv.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/smashingtv.py,1,0)</favourite>	
+    <favourite name="Choose Guide" thumb="special://masterprofile/smashing/smashingfavourites/icons/tv.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/smashingtv.py,2,0)</favourite>
+    <favourite name="All Channels" thumb="special://masterprofile/smashing/smashingfavourites/icons/tv.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/smashingtv.py,1,1)</favourite>	
+    <favourite name="Free" thumb="special://masterprofile/smashing/smashingfavourites/icons/tv.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/smashingtv.py,1,2)</favourite>	
+    <favourite name="Sport" thumb="special://masterprofile/smashing/smashingfavourites/icons/tv.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/smashingtv.py,1,3)</favourite>	
+    <favourite name="Interactive" thumb="special://masterprofile/smashing/smashingfavourites/icons/tv.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/smashingtv.py,1,4)</favourite>	
+    <favourite name="Kids" thumb="special://masterprofile/smashing/smashingfavourites/icons/tv.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/smashingtv.py,1,5)</favourite>	
+    <favourite name="Music" thumb="special://masterprofile/smashing/smashingfavourites/icons/tv.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/smashingtv.py,1,6)</favourite>	
+    <favourite name="International" thumb="special://masterprofile/smashing/smashingfavourites/icons/tv.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/smashingtv.py,1,7)</favourite>
+    <favourite name="News" thumb="special://masterprofile/smashing/smashingfavourites/icons/tv.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/smashingtv.py,1,8)</favourite>	
+    <favourite name="Films" thumb="special://masterprofile/smashing/smashingfavourites/icons/tv.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/smashingtv.py,1,9)</favourite>
+    <favourite name="Entertainment" thumb="special://masterprofile/smashing/smashingfavourites/icons/tv.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/smashingtv.py,1,10)</favourite>	
+    <favourite name="Sky" thumb="special://masterprofile/smashing/smashingfavourites/icons/tv.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/smashingtv.py,1,11)</favourite>
+    <favourite name="Documentary" thumb="special://masterprofile/smashing/smashingfavourites/icons/tv.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/smashingtv.py,1,12)</favourite>	
+    <favourite name="Guide All Channels" thumb="special://masterprofile/smashing/smashingfavourites/icons/tv.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/smashingtv.py,2,1)</favourite>
+    <favourite name="Guide Free" thumb="special://masterprofile/smashing/smashingfavourites/icons/tv.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/smashingtv.py,2,2)</favourite>
+    <favourite name="Guide Sport" thumb="special://masterprofile/smashing/smashingfavourites/icons/tv.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/smashingtv.py,2,3)</favourite>
+    <favourite name="Guide Interactive" thumb="special://masterprofile/smashing/smashingfavourites/icons/tv.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/smashingtv.py,2,4)</favourite>
+    <favourite name="Guide Kids" thumb="special://masterprofile/smashing/smashingfavourites/icons/tv.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/smashingtv.py,2,5)</favourite>
+    <favourite name="Guide Music" thumb="special://masterprofile/smashing/smashingfavourites/icons/tv.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/smashingtv.py,2,6)</favourite>
+    <favourite name="Guide International" thumb="special://masterprofile/smashing/smashingfavourites/icons/tv.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/smashingtv.py,2,7)</favourite>
+    <favourite name="Guide News" thumb="special://masterprofile/smashing/smashingfavourites/icons/tv.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/smashingtv.py,2,8)</favourite>
+    <favourite name="Guide Films" thumb="special://masterprofile/smashing/smashingfavourites/icons/tv.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/smashingtv.py,2,9)</favourite>	
+    <favourite name="Guide Entertainment" thumb="special://masterprofile/smashing/smashingfavourites/icons/tv.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/smashingtv.py,2,10)</favourite>
+    <favourite name="Guide Sky" thumb="special://masterprofile/smashing/smashingfavourites/icons/tv.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/smashingtv.py,2,11)</favourite>
+    <favourite name="Guide Documentary" thumb="special://masterprofile/smashing/smashingfavourites/icons/tv.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/smashingtv.py,2,12)</favourite>		
+</favourites>

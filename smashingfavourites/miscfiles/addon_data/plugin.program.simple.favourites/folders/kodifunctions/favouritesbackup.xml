@@ -1,0 +1,7 @@
+<favourites>
+    <favourite name="Choose More" thumb="special://masterprofile/smashing/smashingfavourites/icons/kodifunctions.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/smashingfavourites.py, choose)</favourite>		
+    <favourite name="reload keymaps" thumb="special://masterprofile/smashing/smashingfavourites/icons/kodifunctions.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/keymaps/reloadkeymaps.py)</favourite>
+    <favourite name="Take screenshot" thumb="special://masterprofile/smashing/smashingfavourites/icons/kodifunctions.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/utilityscripts/screenshot.py)</favourite>	
+    <favourite name="Update local addons" thumb="special://masterprofile/smashing/smashingfavourites/icons/kodifunctions.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/utilityscripts/updatelocaladdons.py)</favourite>		
+</favourites>
+<!--name is Custom.smashing.kodifunctions2158-->

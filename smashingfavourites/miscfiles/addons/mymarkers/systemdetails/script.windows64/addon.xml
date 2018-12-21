@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<addon id="script.windows64" name="systemdetails.windows64" provider-name="Me" version="1.0">
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en">System marker</summary>
+		<description lang="en">That's all</description>
+		<disclaimer lang="en">Whatever</disclaimer>
+		<platform>all</platform>
+		<license>to.kill</license>
+		<forum>no.chance</forum>
+		<website>not.ever</website>
+		<email>are.you.kidding?</email>
+		<source>where.the.sun.doesnt.shine</source>
+	</extension>
+</addon>

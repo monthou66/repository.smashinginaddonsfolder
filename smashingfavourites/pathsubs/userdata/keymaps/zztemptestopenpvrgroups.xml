@@ -1,0 +1,12 @@
+<keymap>
+  <TVChannels>
+    <keyboard>
+      <g>SendClick(28)</g>
+    </keyboard>
+  </TVChannels>
+  <TVGuide>
+    <keyboard>
+      <g>SendClick(28)</g>
+    </keyboard>
+  </TVGuide> 
+</keymap>	  

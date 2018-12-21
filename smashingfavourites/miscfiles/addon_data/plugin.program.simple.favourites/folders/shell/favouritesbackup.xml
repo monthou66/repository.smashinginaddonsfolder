@@ -1,0 +1,6 @@
+<favourites>
+    <favourite name="Re-start kodi shell" thumb="special://masterprofile/smashing/smashingfavourites/icons/shell.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/shell/startshell.py, simplerestartkodi.sh)</favourite>
+    <favourite name="Mount flash read only" thumb="special://masterprofile/smashing/smashingfavourites/icons/shell.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/shell/startshell.py, makeflashro)</favourite>
+    <favourite name="Mount flash read write" thumb="special://masterprofile/smashing/smashingfavourites/icons/shell.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/shell/startshell.py, makeflashrw)</favourite>
+</favourites>
+<!--name is Custom.smashing.shell2173-->

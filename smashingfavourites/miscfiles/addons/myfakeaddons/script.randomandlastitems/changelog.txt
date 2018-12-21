@@ -1,0 +1,5 @@
+v5.9.9
+ - completely buggered on purpose
+
+v2.2.2
+- Fix when JSON query for movie details return no result

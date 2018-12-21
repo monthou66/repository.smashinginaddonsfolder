@@ -1,0 +1,10 @@
+<favourites>
+    <favourite name="Choose More" thumb="special://masterprofile/smashing/smashingfavourites/icons/tv-extras.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/smashingfavourites.py, choose)</favourite>
+    <favourite name="All options" thumb="special://masterprofile/smashing/smashingfavourites/icons/tv-extras.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/smashingfavourites.py, alloptions)</favourite>
+    <favourite name="TV" thumb="special://masterprofile/smashing/smashingfavourites/icons/tv-extras.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/smashingfavourites.py, tv)</favourite>
+    <favourite name="Satellite TV" thumb="special://masterprofile/smashing/smashingfavourites/icons/tv-extras.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/smashingfavourites.py, tv-sat)</favourite>
+    <favourite name="IPTV" thumb="special://masterprofile/smashing/smashingfavourites/icons/tv-extras.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/smashingfavourites.py, tv-iptv)</favourite>
+    <favourite name="TV settings" thumb="special://masterprofile/smashing/smashingfavourites/icons/tv-extras.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/smashingfavourites.py, tv-settings)</favourite>
+    <favourite name="Disable pvr" thumb="special://masterprofile/smashing/smashingfavourites/icons/tv-extras.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/tvscripts/testsmashingstartpvr.py, disable)</favourite>
+</favourites>
+<!--name is Custom.smashing.tv-extras2179--><!--TV Extras-->

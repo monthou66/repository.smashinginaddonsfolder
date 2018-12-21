@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<keymap>
+  <global>
+    <remote>
+	   <record>RunScript(special://userdata/smashing/smashingfavourites/scripts/automatedscripts/opendialog.py, back)</record>
+       <mypictures>RunScript(special://userdata/smashing/smashingfavourites/scripts/automatedscripts/opendialog.py, 2151)</mypictures> 
+    </remote>	
+  </global>  
+  <FileBrowser>
+    <remote>
+       <forward>RunScript(special://userdata/smashing/smashingfavourites/scripts/automatedscripts/opendialog.py, 2159)</forward>
+       <skipplus>RunScript(special://userdata/smashing/smashingfavourites/scripts/automatedscripts/opendialog.py, 2159)</skipplus>
+       <stop>RunScript(special://userdata/smashing/smashingfavourites/scripts/automatedscripts/opendialog.py, 2159)</stop>
+    </remote>	
+  </FileBrowser>
+  <Music>
+    <remote>
+       <forward>RunScript(special://userdata/smashing/smashingfavourites/scripts/automatedscripts/opendialog.py, 2159)</forward>
+       <skipplus>RunScript(special://userdata/smashing/smashingfavourites/scripts/automatedscripts/opendialog.py, 2159)</skipplus>
+       <stop>RunScript(special://userdata/smashing/smashingfavourites/scripts/automatedscripts/opendialog.py, 2159)</stop>
+    </remote>
+  </Music>  
+  <Videos>
+    <remote>
+       <forward>RunScript(special://userdata/smashing/smashingfavourites/scripts/automatedscripts/opendialog.py, 2159)</forward>
+       <skipplus>RunScript(special://userdata/smashing/smashingfavourites/scripts/automatedscripts/opendialog.py, 2159)</skipplus>
+       <stop>RunScript(special://userdata/smashing/smashingfavourites/scripts/automatedscripts/opendialog.py, 2159)</stop>
+    </remote>
+  </Videos> 
+</keymap>

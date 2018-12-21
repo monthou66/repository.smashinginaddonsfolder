@@ -1,0 +1,25 @@
+<favourites>
+    <favourite name="Choose More" thumb="special://masterprofile/smashing/smashingfavourites/icons/install.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/smashingfavourites.py, choose)</favourite>		
+    <favourite name="Install 1" thumb="special://masterprofile/smashing/smashingfavourites/icons/install.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/install/install1.py)</favourite>
+    <favourite name="Install 2" thumb="special://masterprofile/smashing/smashingfavourites/icons/install.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/install/install2.py)</favourite>
+    <favourite name="Install 3" thumb="special://masterprofile/smashing/smashingfavourites/icons/install.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/install/install3.py)</favourite>
+    <favourite name="Install 4" thumb="special://masterprofile/smashing/smashingfavourites/icons/install.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/install/install4.py)</favourite>
+    <favourite name="Install 5" thumb="special://masterprofile/smashing/smashingfavourites/icons/install.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/install/install5.py)</favourite>
+    <favourite name="Install 6" thumb="special://masterprofile/smashing/smashingfavourites/icons/install.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/install/install6.py)</favourite>
+    <favourite name="Install 7" thumb="special://masterprofile/smashing/smashingfavourites/icons/install.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/install/install7.py)</favourite>
+    <favourite name="Install 8" thumb="special://masterprofile/smashing/smashingfavourites/icons/install.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/install/install8.py)</favourite>
+    <favourite name="Install 9" thumb="special://masterprofile/smashing/smashingfavourites/icons/install.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/install/install9.py)</favourite>
+    <favourite name="Install 10" thumb="special://masterprofile/smashing/smashingfavourites/icons/install.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/install/install10.py)</favourite>	
+    <favourite name="Install 11" thumb="special://masterprofile/smashing/smashingfavourites/icons/install.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/install/install11.py)</favourite>
+    <favourite name="Install 12" thumb="special://masterprofile/smashing/smashingfavourites/icons/install.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/install/install12.py)</favourite>
+    <favourite name="Install 13" thumb="special://masterprofile/smashing/smashingfavourites/icons/install.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/install/install13.py)</favourite>
+    <favourite name="Install 14" thumb="special://masterprofile/smashing/smashingfavourites/icons/install.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/install/install14.py)</favourite>
+    <favourite name="Install 15" thumb="special://masterprofile/smashing/smashingfavourites/icons/install.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/install/install15.py)</favourite>
+    <favourite name="Install 16" thumb="special://masterprofile/smashing/smashingfavourites/icons/install.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/install/install16.py)</favourite>
+    <favourite name="Install 17" thumb="special://masterprofile/smashing/smashingfavourites/icons/install.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/install/install17.py)</favourite>
+    <favourite name="Install 18" thumb="special://masterprofile/smashing/smashingfavourites/icons/install.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/install/install18.py)</favourite>
+    <favourite name="Install 19" thumb="special://masterprofile/smashing/smashingfavourites/icons/install.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/install/install19.py)</favourite>
+    <favourite name="Install 20" thumb="special://masterprofile/smashing/smashingfavourites/icons/install.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/install/install20.py)</favourite>
+    <favourite name="testinstallfromkodirepo" thumb="special://masterprofile/smashing/smashingfavourites/icons/install.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/install/testinstallfromkodirepo.py)</favourite>
+</favourites>
+<!--name is Custom.smashing.install2156-->

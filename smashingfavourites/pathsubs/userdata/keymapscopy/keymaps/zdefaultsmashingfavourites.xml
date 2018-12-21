@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<keymap>
+  <global>
+    <remote>
+       <record>RunScript(special://userdata/smashing/smashingfavourites/scripts/smashingfavourites.py, choose)</record> 
+    </remote>	
+  </global>  
+  <FileBrowser>
+    <remote>
+       <stop>RunScript(special://userdata/smashing/smashingfavourites/scripts/smashingfavourites.py, letters)</stop>
+    </remote>	
+  </FileBrowser>
+  <Music>
+    <remote>
+       <stop>RunScript(special://userdata/smashing/smashingfavourites/scripts/smashingfavourites.py, letters)</stop>
+    </remote>
+  </Music>  
+  <Videos>
+    <remote>
+       <stop>RunScript(special://userdata/smashing/smashingfavourites/scripts/smashingfavourites.py, letters)</stop>
+       <skipplus>RunScript(special://masterprofile/smashing/smashingfavourites/scripts/smashingfavourites.py, actors)</skipplus>   
+    </remote>
+  </Videos>
+  <Favourites>
+    <remote>
+       <forward>Back</forward>
+       <reverse>Back</reverse>	   
+       <skipplus>Back</skipplus>
+	   <skipminus>Back</skipminus>
+       <stop>Back</stop>
+       <record>Back</record>
+    </remote>
+  </Favourites>  
+</keymap>

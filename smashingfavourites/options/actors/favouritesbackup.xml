@@ -1,0 +1,11 @@
+<favourites>
+    <favourite name="Choose More" thumb="special://masterprofile/smashing/smashingfavourites/icons/actors.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/smashingfavourites.py, choose)</favourite>
+    <favourite name="Arnie" thumb="special://masterprofile/smashing/smashingfavourites/miscfiles/artwork/Arnie.jpg">ActivateWindow(10025,&quot;special://profile/playlists/video/actors/Arnie.xsp&quot;,return)</favourite>
+    <favourite name="Bruce Willis" thumb="special://masterprofile/smashing/smashingfavourites/miscfiles/artwork/Bruce Willis.jpg">ActivateWindow(10025,&quot;special://profile/playlists/video/actors/Bruce Willis.xsp&quot;,return)</favourite>
+    <favourite name="Clint Eastwood" thumb="special://masterprofile/smashing/smashingfavourites/miscfiles/artwork/Clint Eastwood.jpg">ActivateWindow(10025,&quot;special://profile/playlists/video/actors/Clint Eastwood.xsp&quot;,return)</favourite>
+    <favourite name="Jason Statham" thumb="special://masterprofile/smashing/smashingfavourites/miscfiles/artwork/Jason Statham.jpg">ActivateWindow(10025,&quot;special://profile/playlists/video/actors/Jason Statham.xsp&quot;,return)</favourite>
+    <favourite name="Simon Pegg" thumb="special://masterprofile/smashing/smashingfavourites/miscfiles/artwork/Simon Pegg.jpg">ActivateWindow(10025,&quot;special://profile/playlists/video/actors/Simon Pegg.xsp&quot;,return)</favourite>
+    <favourite name="Stallone" thumb="special://masterprofile/smashing/smashingfavourites/miscfiles/artwork/Stallone.jpg">ActivateWindow(10025,&quot;special://profile/playlists/video/actors/Stallone.xsp&quot;,return)</favourite>
+    <favourite name="Tom Cruise" thumb="special://masterprofile/smashing/smashingfavourites/miscfiles/artwork/Tom Cruise.jpg">ActivateWindow(10025,&quot;special://profile/playlists/video/actors/Tom Cruise.xsp&quot;,return)</favourite>
+</favourites>
+<!--name is Custom.smashing.actors2150--><!--Actors-->

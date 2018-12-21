@@ -1,0 +1,15 @@
+<favourites>
+    <favourite name="Choose More" thumb="special://masterprofile/smashing/smashingfavourites/icons/skinedits.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/smashingfavourites.py, choose)</favourite>
+    <favourite name="buildcustomskindialogs.py" thumb="special://masterprofile/smashing/smashingfavourites/icons/skinedits.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/skinedits/buildcustomskindialogs.py)</favourite>
+    <favourite name="Lists from favourites" thumb="special://masterprofile/smashing/smashingfavourites/icons/skinedits.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/skinedits/buildcustomskindialogs.py, listfromfavsuseexistingname)</favourite>	
+    <favourite name="Lists from local favourites" thumb="special://masterprofile/smashing/smashingfavourites/icons/skinedits.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/skinedits/buildcustomskindialogs.py, listfromfavsuseexistingnameuselocalfavsfolder)</favourite>
+    <favourite name="Reprocess old lists" thumb="special://masterprofile/smashing/smashingfavourites/icons/skinedits.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/skinedits/buildcustomskindialogs.py, reprocess)</favourite>		
+    <favourite name="Get favourites size" thumb="special://masterprofile/smashing/smashingfavourites/icons/skinedits.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/skinedits/buildcustomskindialogs.py, getoptionssize)</favourite>	
+    <favourite name="Test generic start" thumb="special://masterprofile/smashing/smashingfavourites/icons/skinedits.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/genericstartscript.py)</favourite>
+    <favourite name="Test generic monitor" thumb="special://masterprofile/smashing/smashingfavourites/icons/skinedits.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/genericmonitorscript.py)</favourite>
+    <favourite name="trybuildestuarycustomdialogs.py" thumb="special://masterprofile/smashing/smashingfavourites/icons/skinedits.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/skinedits/buildcustomskindialogs.py, force, updateskin.estuary)</favourite>
+    <favourite name="trybuildallcustomdialogs.py" thumb="special://masterprofile/smashing/smashingfavourites/icons/skinedits.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/skinedits/buildcustomskindialogs.py, force, updateallskins)</favourite>
+    <favourite name="update local custom skin files" thumb="special://masterprofile/smashing/smashingfavourites/icons/skinedits.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/skinedits/updatelocal.py)</favourite>
+    <favourite name="force add custom skins" thumb="special://masterprofile/smashing/smashingfavourites/icons/skinedits.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/skinedits/addcustomskindialogs.py, force)</favourite>
+</favourites>
+<!--name is Custom.smashing.skinedits2175--><!--Skin Edits-->

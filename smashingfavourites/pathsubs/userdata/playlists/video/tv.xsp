@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<smartplaylist type="tvshows">
+    <name>TV</name>
+    <match>one</match>
+    <rule field="path" operator="startswith">
+        <value>smb://SourceTV1series</value>
+    </rule>
+    <rule field="path" operator="startswith">
+        <value>smb://SourceTV2completedseries</value>
+    </rule>
+    <rule field="path" operator="startswith">
+        <value>smb://SourceTV3sharedseries</value>
+    </rule>
+    <rule field="path" operator="startswith">
+        <value>smb://SourceTV4completedsharedseries</value>
+    </rule>		
+    <order direction="ascending">sorttitle</order>
+</smartplaylist>

@@ -1,0 +1,6 @@
+<favourites>
+    <favourite name="Infopopup" thumb="special://masterprofile/smashing/smashingfavourites/icons/vpn.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/vpn/vpninfopopup.py)</favourite>
+    <favourite name="Table" thumb="special://masterprofile/smashing/smashingfavourites/icons/vpn.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/vpn/vpntable.py)</favourite>
+    <favourite name="Cycle" thumb="special://masterprofile/smashing/smashingfavourites/icons/vpn.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/vpn/vpncycle.py)</favourite>
+</favourites>
+<!--name is Custom.smashing.vpn2184--><!--vpn scripts-->

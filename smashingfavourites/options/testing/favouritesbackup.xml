@@ -1,0 +1,24 @@
+<favourites>
+    <favourite name="Choose More" thumb="special://masterprofile/smashing/smashingfavourites/icons/testing.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/smashingfavourites.py, choose)</favourite><!--add extras separated by ,, here-->
+    <favourite name="Testscript 1" thumb="special://masterprofile/smashing/smashingfavourites/icons/testing.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/testscripts/test1.py)</favourite>
+    <favourite name="Testscript 2" thumb="special://masterprofile/smashing/smashingfavourites/icons/testing.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/testscripts/test2.py)</favourite>
+    <favourite name="Testscript 3" thumb="special://masterprofile/smashing/smashingfavourites/icons/testing.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/testscripts/test3.py)</favourite>
+    <favourite name="Testscript 4" thumb="special://masterprofile/smashing/smashingfavourites/icons/testing.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/testscripts/test4.py)</favourite>
+    <favourite name="Testscript 5" thumb="special://masterprofile/smashing/smashingfavourites/icons/testing.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/testscripts/test5.py)</favourite>
+    <favourite name="Testscript 6" thumb="special://masterprofile/smashing/smashingfavourites/icons/testing.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/testscripts/test6.py)</favourite>
+    <favourite name="Testscript 7" thumb="special://masterprofile/smashing/smashingfavourites/icons/testing.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/testscripts/test7.py)</favourite>
+    <favourite name="Testscript 8" thumb="special://masterprofile/smashing/smashingfavourites/icons/testing.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/testscripts/test8.py)</favourite>
+    <favourite name="Testscript 9" thumb="special://masterprofile/smashing/smashingfavourites/icons/testing.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/testscripts/test9.py)</favourite>
+    <favourite name="Testscript 10" thumb="special://masterprofile/smashing/smashingfavourites/icons/testing.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/testscripts/test10.py)</favourite>	
+    <favourite name="Testscript 11" thumb="special://masterprofile/smashing/smashingfavourites/icons/testing.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/testscripts/test11.py)</favourite>
+    <favourite name="Testscript 12" thumb="special://masterprofile/smashing/smashingfavourites/icons/testing.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/testscripts/test12.py)</favourite>
+    <favourite name="Testscript 13" thumb="special://masterprofile/smashing/smashingfavourites/icons/testing.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/testscripts/test13.py)</favourite>
+    <favourite name="Testscript 14" thumb="special://masterprofile/smashing/smashingfavourites/icons/testing.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/testscripts/test14.py)</favourite>
+    <favourite name="Testscript 15" thumb="special://masterprofile/smashing/smashingfavourites/icons/testing.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/testscripts/test15.py)</favourite>
+    <favourite name="Testscript 16" thumb="special://masterprofile/smashing/smashingfavourites/icons/testing.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/testscripts/test16.py)</favourite>
+    <favourite name="Testscript 17" thumb="special://masterprofile/smashing/smashingfavourites/icons/testing.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/testscripts/test17.py)</favourite>
+    <favourite name="Testscript 18" thumb="special://masterprofile/smashing/smashingfavourites/icons/testing.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/testscripts/test18.py)</favourite>
+    <favourite name="Testscript 19" thumb="special://masterprofile/smashing/smashingfavourites/icons/testing.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/testscripts/test19.py)</favourite>
+    <favourite name="Testscript 20" thumb="special://masterprofile/smashing/smashingfavourites/icons/testing.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/testscripts/test20.py)</favourite>
+</favourites>
+<!--name is Custom.smashing.testing2167--><!--Test scripts-->

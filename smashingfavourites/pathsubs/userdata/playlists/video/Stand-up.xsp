@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<smartplaylist type="movies">
+    <name>Stand-up</name>
+    <match>all</match>
+    <rule field="path" operator="startswith">
+        <value>smb://Source Films/Standup</value>
+    </rule>
+    <group>none</group>
+    <order direction="ascending">sorttitle</order>
+</smartplaylist>

@@ -1,0 +1,17 @@
+<favourites>
+    <favourite name="Choose More" thumb="special://masterprofile/smashing/smashingfavourites/icons/openwindows.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/smashingfavourites.py, choose)</favourite>
+    <favourite name="Google Photos" thumb="special://masterprofile/smashing/smashingfavourites/icons/openwindows.png">ActivateWindow(10002,&quot;smb://Source GooglePhotos/&quot;,return)</favourite>
+    <favourite name="Music" thumb="special://masterprofile/smashing/smashingfavourites/icons/openwindows.png">ActivateWindow(10502,&quot;smb://Source Music/&quot;,return)</favourite>
+    <favourite name="Music artists" thumb="special://masterprofile/smashing/smashingfavourites/icons/openwindows.png">ActivateWindow(10502,&quot;smb://Source Music/Artists/&quot;,return)</favourite>
+    <favourite name="Music compilations" thumb="special://masterprofile/smashing/smashingfavourites/icons/openwindows.png">ActivateWindow(10502,&quot;smb://Source Music/Compilations/&quot;,return)</favourite>
+    <favourite name="Music singles" thumb="special://masterprofile/smashing/smashingfavourites/icons/openwindows.png">ActivateWindow(10502,&quot;smb://Source Music/Singles/&quot;,return)</favourite>
+    <favourite name="video playlists" thumb="special://masterprofile/smashing/smashingfavourites/icons/openwindows.png">ActivateWindow(Videos,special://masterprofile/playlists/video)</favourite>
+    <favourite name="Movie titles" thumb="special://masterprofile/smashing/smashingfavourites/icons/openwindows.png">ActivateWindow(Videos,MovieTitles)</favourite>
+    <favourite name="videodb Movie Titles" thumb="special://masterprofile/smashing/smashingfavourites/icons/openwindows.png">ActivateWindow(Videos,videodb://movies/titles/)</favourite>
+    <favourite name="videodb Movies Years" thumb="special://masterprofile/smashing/smashingfavourites/icons/openwindows.png">ActivateWindow(Videos,videodb://movies/years/)</favourite>
+    <favourite name="Programs" thumb="special://masterprofile/smashing/smashingfavourites/icons/openwindows.png">ActivateWindow(Programs,addons://sources/executable/)</favourite>
+    <favourite name="My add-ons" thumb="special://masterprofile/smashing/smashingfavourites/icons/openwindows.png">ActivateWindow(10040,&quot;addons://user/&quot;,return)</favourite>
+    <favourite name="PVR clients" thumb="special://masterprofile/smashing/smashingfavourites/icons/openwindows.png">ActivateWindow(10040,&quot;addons://user/xbmc.pvrclient&quot;,return)</favourite>
+    <favourite name="PVR clients" thumb="special://masterprofile/smashing/smashingfavourites/icons/openwindows.png">ActivateWindow(AddonBrowser,&quot;addons://user/xbmc.pvrclient&quot;,return)</favourite>
+</favourites>
+<!--name is Custom.smashing.openwindows2178--><!--Open Windows-->

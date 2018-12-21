@@ -1,0 +1,12 @@
+<favourites>
+    <favourite name="Choose More" thumb="special://masterprofile/smashing/smashingfavourites/icons/rsync.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/smashingfavourites.py, choose)</favourite>		
+    <favourite name="echotest" thumb="special://masterprofile/smashing/smashingfavourites/icons/rsync.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/rsyncscripts/echotest.py)</favourite>
+    <favourite name="echomsglogtest" thumb="special://masterprofile/smashing/smashingfavourites/icons/rsync.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/rsyncscripts/echomsglogtest.py)</favourite>
+    <favourite name="kodilog.py" thumb="special://masterprofile/smashing/smashingfavourites/icons/rsync.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/kodilog.py)</favourite>
+    <favourite name="rsync storageto usb" thumb="special://masterprofile/smashing/smashingfavourites/icons/rsync.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/rsyncscripts/rsyncstoragetousb.sh)</favourite>
+    <favourite name="rsync smashing to flash" thumb="special://masterprofile/smashing/smashingfavourites/icons/rsync.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/rsyncscripts/smashtoflash.py)</favourite>
+    <favourite name="rsync flash to smashing" thumb="special://masterprofile/smashing/smashingfavourites/icons/rsync.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/rsyncscripts/startrsync.py, flashtosmash)</favourite>
+    <favourite name="rsync flash to all partitions" thumb="special://masterprofile/smashing/smashingfavourites/icons/rsync.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/rsyncscripts/startrsync.py, flashtosmashall)</favourite>
+    <favourite name="rsync storagetoflash" thumb="special://masterprofile/smashing/smashingfavourites/icons/rsync.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/rsyncscripts/startrsync.py, storagetoflash)</favourite>
+</favourites>
+<!--name is Custom.smashing.rsync2165--><!--Rsync-->

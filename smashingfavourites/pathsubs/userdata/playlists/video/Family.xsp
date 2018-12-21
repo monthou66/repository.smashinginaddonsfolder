@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<smartplaylist type="movies">
+    <name>Family</name>
+    <match>one</match>
+    <rule field="path" operator="startswith">
+        <value>smb://Source Films/Liam&apos;s shared films</value>
+    </rule>
+    <rule field="path" operator="startswith">
+        <value>smb://Source Films/Our Films</value>
+    </rule>
+    <rule field="path" operator="startswith">
+        <value>smb://Source HD Films/Liam&apos;s shared films</value>
+    </rule>
+    <rule field="path" operator="startswith">
+        <value>smb://Source HD Films/Our Films</value>
+    </rule>
+    <rule field="path" operator="startswith">
+        <value>smb://Source Films/Musicals</value>
+    </rule>
+    <rule field="path" operator="startswith">
+        <value>smb://Source Films/Dance</value>
+    </rule>
+    <rule field="path" operator="startswith">
+        <value>smb://Source Films/Comedy - Stand-up</value>
+    </rule>
+    <group mixed="true">sets</group>
+    <order direction="ascending">sorttitle</order>
+</smartplaylist>

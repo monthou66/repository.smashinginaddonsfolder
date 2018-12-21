@@ -1,0 +1,5 @@
+v17.1.1
+- ruin a perfectly good script
+
+v7.1.1
+- clear properties

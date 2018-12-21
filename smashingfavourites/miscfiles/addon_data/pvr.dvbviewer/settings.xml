@@ -1,0 +1,22 @@
+<settings>
+    <setting id="favouritesfile" value="" />
+    <setting id="grouprecordings" value="0" />
+    <setting id="host" value="192.168.1.25" />
+    <setting id="lowperformance" value="false" />
+    <setting id="pass" value="" />
+    <setting id="prependoutline" value="1" />
+    <setting id="sep1" value="" />
+    <setting id="sep2" value="" />
+    <setting id="sep3" value="" />
+    <setting id="sep4" value="" />
+    <setting id="timeshift" value="0" />
+    <setting id="timeshiftpath" value="smb://192.168.1.25/Stuff/DVB Timeshift" />
+    <setting id="transcoding" value="0" />
+    <setting id="transcodingparams" value="" />
+    <setting id="usefavourites" value="false" />
+    <setting id="usefavouritesfile" value="false" />
+    <setting id="user" value="" />
+    <setting id="usertsp" value="false" />
+    <setting id="usetimeshift" value="true" />
+    <setting id="webport" value="8089" />
+</settings>

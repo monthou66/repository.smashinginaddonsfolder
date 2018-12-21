@@ -1,0 +1,45 @@
+    <favourite name="" thumb="special://masterprofile/smashing/smashingfavourites/icons/testing.png"></favourite>
+    <favourite name="" thumb="special://masterprofile/smashing/smashingfavourites/icons/testing.png"></favourite>
+    <favourite name="" thumb="special://masterprofile/smashing/smashingfavourites/icons/testing.png"></favourite>
+    <favourite name="" thumb="special://masterprofile/smashing/smashingfavourites/icons/testing.png"></favourite>
+    <favourite name="" thumb="special://masterprofile/smashing/smashingfavourites/icons/testing.png"></favourite>
+    <favourite name="" thumb="special://masterprofile/smashing/smashingfavourites/icons/testing.png"></favourite>
+    <favourite name="" thumb="special://masterprofile/smashing/smashingfavourites/icons/testing.png"></favourite>
+    <favourite name="" thumb="special://masterprofile/smashing/smashingfavourites/icons/testing.png"></favourite>
+    <favourite name="" thumb="special://masterprofile/smashing/smashingfavourites/icons/testing.png"></favourite>
+    <favourite name="" thumb="special://masterprofile/smashing/smashingfavourites/icons/testing.png"></favourite>
+    <favourite name="" thumb="special://masterprofile/smashing/smashingfavourites/icons/testing.png"></favourite>
+    <favourite name="" thumb="special://masterprofile/smashing/smashingfavourites/icons/testing.png"></favourite>	
+
+ActivateWindow()
+ActivateWindow()
+ActivateWindow()
+ActivateWindow()
+ActivateWindow()
+ActivateWindow()
+ActivateWindow()
+ActivateWindow()
+ActivateWindow()
+
+
+
+	
+ActivateWindow(10025,&quot;special://profile/playlists/video/actors/Arnie.xsp&quot;,return)
+ActivateWindow(Videos,special://masterprofile/playlists/video/years)
+ActivateWindow(10502,&quot;smb://Source Music/Artists/&quot;,return)
+ActivateWindow(10002,&quot;smb://Source Google Photos/&quot;,return)
+ActivateWindow(Videos,MovieTitles)
+ActivateWindow(Videos,videodb://movies/titles/)
+ActivateWindow(videodb://movies/years/)
+ActivateWindow(addons://sources/executable/)
+
+
+<favourite name="GROUPNAME">ActivateWindow(10700,&quot;pvr://channels/tv/GROUPNAME/&quot;,return)</favourite>
+
+pvr://channels/tv/All channels/
+pvr://channels/tv/Main/
+
+SendClick(10040,&quot;addons://user/xbmc.pvrclient&quot;)
+
+ActivateWindow(10002,&quot;smb://Source Google Photos/&quot;,return)
+ActivateWindow(10002,&quot;smb://Source GooglePhotos/&quot;,return)

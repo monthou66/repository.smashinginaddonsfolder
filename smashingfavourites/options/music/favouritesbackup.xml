@@ -1,0 +1,10 @@
+<favourites>
+    <favourite name="Choose More" thumb="special://masterprofile/smashing/smashingfavourites/icons/music.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/smashingfavourites.py, choose)</favourite>
+    <favourite name="Music" thumb="special://masterprofile/smashing/smashingfavourites/icons/music.png">ActivateWindow(10502,&quot;smb://192.168.1.2/BigEdge2/Music/&quot;,return)</favourite>
+    <favourite name="Music - Artists" thumb="special://masterprofile/smashing/smashingfavourites/icons/music.png">ActivateWindow(10502,&quot;smb://Source Music/Artists/&quot;,return)</favourite>
+    <favourite name="Music - Christmas" thumb="special://masterprofile/smashing/smashingfavourites/icons/music.png">ActivateWindow(10502,&quot;smb://Source Music/Christmas/&quot;,return)</favourite>
+    <favourite name="Music - Compilations" thumb="special://masterprofile/smashing/smashingfavourites/icons/music.png">ActivateWindow(10502,&quot;smb://Source Music/Compilations/&quot;,return)</favourite>
+    <favourite name="Music - OSTs" thumb="special://masterprofile/smashing/smashingfavourites/icons/music.png">ActivateWindow(10502,&quot;smb://Source Music/OSTs/&quot;,return)</favourite>
+    <favourite name="Music - Singles" thumb="special://masterprofile/smashing/smashingfavourites/icons/music.png">ActivateWindow(10502,&quot;smb://Source Music/Singles/&quot;,return)</favourite>
+    <favourite name="My Stations" thumb="special://masterprofile/smashing/smashingfavourites/icons/music.png">ActivateWindow(10502,&quot;plugin://plugin.audio.radio_de/stations/my/&quot;,return)</favourite>
+</favourites>

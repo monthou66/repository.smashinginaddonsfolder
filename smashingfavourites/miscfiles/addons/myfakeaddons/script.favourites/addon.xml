@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="script.favourites" name="Favourites script" version="17.1.1" provider-name="me, myself and I">
+	<requires>
+		<import addon="xbmc.python" version="2.25.0"/>
+	</requires>
+	<extension point="xbmc.python.library" library="default.py"/>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en">Favourites script</summary>
+		<description lang="en">Makes coffee</description>
+		<disclaimer lang="en">Not very good coffee</disclaimer>
+		<language></language>
+		<platform>all</platform>
+		<license>GNU GENERAL PUBLIC LICENSE Version 2</license>
+		<forum></forum>
+		<website></website>
+		<email></email>
+		<source>lion.poo</source>
+	</extension>
+</addon>

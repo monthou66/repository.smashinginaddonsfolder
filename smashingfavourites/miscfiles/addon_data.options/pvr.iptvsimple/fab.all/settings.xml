@@ -1,0 +1,20 @@
+<settings>
+    <setting id="epgCache" value="false" />
+    <setting id="epgPath" value="" />
+    <setting id="epgPathType" value="1" />
+    <setting id="epgTSOverride" value="true" />
+    <setting id="epgTimeShift" value="0.996758" />
+    <setting id="epgUrl" value="http://meowyapmeow.com:8080/xmltv.php?username=oqrfxtzg&amp;password=m7q38iA3wE" />
+    <setting id="logoBaseUrl" value="" />
+    <setting id="logoFromEpg" value="2" />
+    <setting id="logoPath" value="" />
+    <setting id="logoPathType" value="1" />
+    <setting id="m3uCache" value="false" />
+    <setting id="m3uPath" value="" />
+    <setting id="m3uPathType" value="1" />
+    <setting id="m3uUrl" value="http://meowyapmeow.com:8080/get.php?username=oqrfxtzg&amp;password=m7q38iA3wE&amp;type=m3u_plus&amp;output=mpegts" />
+    <setting id="sep1" value="" />
+    <setting id="sep2" value="" />
+    <setting id="sep3" value="" />
+    <setting id="startNum" value="1" />
+</settings>

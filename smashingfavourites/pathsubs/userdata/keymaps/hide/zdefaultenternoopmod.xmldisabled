@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<keymap>
+  <Music>
+    <keyboard>
+      <enter>noop</enter>
+      <return>noop</return>
+    </keyboard>
+    <remote>
+      <enter>noop</enter>	
+    </remote>	
+  </Music>
+  <Videos>
+    <keyboard>
+      <enter>noop</enter>
+      <return>noop</return>
+    </keyboard>
+    <remote>
+      <enter>noop</enter>  
+    </remote>	
+  </Videos>
+</keymap>

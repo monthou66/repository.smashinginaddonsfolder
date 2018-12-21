@@ -1,0 +1,7 @@
+<keymap>
+  <global>>
+    <keyboard>
+      <f7>RunScript(special://userdata/smashing/smashingfavourites/scripts/testscripts/test1.py)</f7>	  
+    </keyboard>
+  </global>>
+</keymap>

@@ -1,0 +1,67 @@
+<keymap>
+  <global>>
+    <keyboard>
+      <f1>RunScript(special://userdata/smashing/smashingfavourites/scripts/automatedscripts/opendialog.py)</f1>
+      <f2>ActivateWindowAndFocus(2151,return)</f2>
+      <f3>RunScript(special://userdata/smashing/smashingfavourites/scripts/utilityscripts/checkwindowandfocus.py)</f3>
+      <f4>RunScript(special://userdata/smashing/smashingfavourites/scripts/utilityscripts/checkwindowandfocus.py, back)</f4>
+      <f5>RunScript(special://userdata/smashing/smashingfavourites/scripts/automatedscripts/opendialog.py, 2151)</f5>
+      <f6>RunScript(special://userdata/smashing/smashingfavourites/scripts/automatedscripts/opendialog.py, 2154)</f6>
+      <f7>RunScript(special://userdata/smashing/smashingfavourites/scripts/automatedscripts/opendialog.py, 2153)</f7>
+      <f8>RunScript(special://userdata/smashing/smashingfavourites/scripts/automatedscripts/opendialog.py, 2176)</f8>
+      <f9>RunScript(special://masterprofile/smashing/smashingfavourites/scripts/smashingfavourites.py, letters)</f9>
+      <f10>RunScript(special://userdata/smashing/smashingfavourites/scripts/automatedscripts/opendialog.py, 2159)</f10>
+      <f11>RunScript(special://userdata/smashing/smashingfavourites/scripts/automatedscripts/opendialog.py, back)</f11>
+      <f12>RunScript(special://userdata/smashing/smashingfavourites/scripts/automatedscripts/opendialog.py, close)</f12>
+      <q>RunScript(special://userdata/smashing/smashingfavourites/scripts/testscripts/test1.py)</q>
+	  <w>RunScript(special://masterprofile/smashing/smashingfavourites/scripts/tvscripts/smashingstartpvr.py, guide)</w>
+      <e>ActivateWindow(addons://user/xbmc.pvrclient)</e>
+      <f>ActivateWindow(videodb://movies/titles/)</f>
+      <r>ActivateWindow(10609)</r>
+      <t>ActivateWindow(10609,return)</t>
+      <y>RunScript(special://userdata/smashing/smashingfavourites/scripts/editaddons/editxonf.py)</y>
+      <f>ActivateWindow(Favourites)</f>
+    </keyboard>
+  </global>>
+  <FullscreenLiveTV>
+    <keyboard>
+      <r>ActivateWindow(10608)</r>
+      <t>ActivateWindow(10609)</t>
+    </keyboard>
+  </FullscreenLiveTV>
+</keymap>
+
+CustomFavsLetters_2151.xml
+      <f3>RunScript(special://userdata/smashing/smashingfavourites/scripts/testscripts/disablepvriptv/gettimefromlog.py)</f3>
+      <f12>RunScript(special://userdata/smashing/smashingfavourites/scripts/testscripts/refreshpvrinfo/test1.py)</f12>
+      <f11>RunScript(special://masterprofile/smashing/smashingfavourites/scripts/smashingtv.py,groups,choose)</f11>
+      <f10>RunScript(special://userdata/smashing/smashingfavourites/scripts/testscripts/disablepvriptv/teststartpvr.iptvsimple.py)</f10>	  
+      <f9>RunScript(special://userdata/smashing/smashingfavourites/scripts/testscripts/disablepvriptv/testdisablepvr.iptvsimple.py)</f9>	  
+      <f8>RunScript(special://userdata/smashing/smashingfavourites/scripts/testscripts/downloadm3u/test1.py)</f8>	  
+      <f3>ActivateWindow(2154,return)</f3>
+      <f4>ActivateWindow(2166,return)</f4>	  
+      <f8>RunScript(special://userdata/smashing/smashingfavourites/scripts/testscripts/downloadm3u/test1.py)</f8>
+      <f7>RunScript(special://userdata/smashing/smashingfavourites/scripts/inprogress xonfluence/xonfrestoreworkstest3.py)</f7>	  
+      <f7>ActivateWindow(2172,return)</f7>
+      <f6>RunScript(special://userdata/smashing/smashingfavourites/scripts/inprogress xonfluence/latesttest1worksbackupmultipletimes.py)</f6>	
+      <f1>ActivateWindow(2154,return)</f1>
+      <f2>ActivateWindow(2151,return)</f2>	 
+
+      <f6>XBMC.Action(FirstPage)</f6>
+      <f7>ActivateWindow(2172,return)</f7>
+      <f8>RunScript(special://userdata/smashing/smashingfavourites/scripts/buildcustomskindialogs/buildsmashingletters720.py, listfromfavsuseexistingnameuselocalfavsfolder)</f8>
+      <f9>RunScript(special://userdata/smashing/smashingfavourites/scripts/buildcustomskindialogs/buildsmashingletters720.py, listfromfavsuseexistingname)</f9>
+      <f10>RunScript(special://userdata/smashing/smashingfavourites/scripts/buildcustomskindialogs/buildsmashingletters720.py, listfromfavs)</f10>
+      <f11>RunScript(special://userdata/smashing/smashingfavourites/scripts/buildcustomskindialogs/buildsmashingletters720.py, reprocess)</f11>
+      <f12>RunScript(special://userdata/smashing/smashingfavourites/scripts/buildcustomskindialogs/buildsmashingletters720.py)</f12>	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+
+
+	  
+	  

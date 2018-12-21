@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<smartplaylist type="movies">
+    <name>70s</name>
+    <match>all</match>
+    <rule field="playlist" operator="is">
+        <value>Adults</value>
+    </rule>
+    <rule field="year" operator="lessthan">
+        <value>1980</value>
+    </rule>
+    <rule field="year" operator="greaterthan">
+        <value>1969</value>
+    </rule>
+    <group>none</group>
+</smartplaylist>

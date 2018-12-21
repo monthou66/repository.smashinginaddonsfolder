@@ -1,0 +1,12 @@
+<keymap>
+  <global>>
+    <keyboard>
+      <f1>RunScript(special://userdata/smashing/smashingfavourites/scripts/smashingfavourites.py, choose)</f1>
+      <f2>ActivateWindow(Favourites)</f2>
+      <f3>RunScript(special://userdata/smashing/smashingfavourites/scripts/utilityscripts/backtohome.py)</f3>
+      <f4>ActivateWindow(Home)</f4>
+      <f5>ReplaceWindow(Home)</f5>
+      <f6>RunScript(special://userdata/smashing/smashingfavourites/scripts/utilityscripts/backtohome2.py)</f6>
+    </keyboard>
+  </global>>
+</keymap>

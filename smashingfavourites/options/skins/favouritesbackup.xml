@@ -1,0 +1,15 @@
+<favourites>
+    <favourite name="Choose More" thumb="special://masterprofile/smashing/smashingfavourites/icons/skins.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/smashingfavourites.py, choose)</favourite>
+    <favourite name="Select a new skin" thumb="special://masterprofile/smashing/smashingfavourites/icons/skins.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/skinscripts/switchskin.py, choose)</favourite>
+    <favourite name="Select new - no prompt" thumb="special://masterprofile/smashing/smashingfavourites/icons/skins.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/skinscripts/switchskin.py, choosenoprompt)</favourite>
+    <favourite name="Switch to previous skin" thumb="special://masterprofile/smashing/smashingfavourites/icons/skins.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/skinscripts/switchskin.py, previous skin)</favourite>
+    <favourite name="Switch to Xonfluence" thumb="special://masterprofile/smashing/smashingfavourites/icons/skins.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/skinscripts/switchskin.py, skin.xonfluence, gray, gray)</favourite>
+    <favourite name="Switch to Confluence" thumb="special://masterprofile/smashing/smashingfavourites/icons/skins.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/skinscripts/switchskin.py, skin.confluence)</favourite>
+    <favourite name="Switch to Estuary" thumb="special://masterprofile/smashing/smashingfavourites/icons/skins.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/skinscripts/switchskin.py, skin.estuary)</favourite>
+    <favourite name="Reload skin" thumb="special://masterprofile/smashing/smashingfavourites/icons/skins.png">XBMC.ReloadSkin()</favourite>
+    <favourite name="Skin debugging" thumb="special://masterprofile/smashing/smashingfavourites/icons/skins.png">XBMC.Skin.ToggleDebug()</favourite>
+    <favourite name="Set current skin as default" thumb="special://masterprofile/smashing/smashingfavourites/icons/skins.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/skinscripts/switchskin.py, set default)</favourite>
+    <favourite name="Switch to default" thumb="special://masterprofile/smashing/smashingfavourites/icons/skins.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/skinscripts/switchskin.py, restore default)</favourite>
+    <favourite name="Backup / Restore skin" thumb="special://masterprofile/smashing/smashingfavourites/icons/skins.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/skinscripts/smashingskinbackuprestore.py)</favourite>
+</favourites>
+<!--name is Custom.smashing.skins2166--><!--Skins-->

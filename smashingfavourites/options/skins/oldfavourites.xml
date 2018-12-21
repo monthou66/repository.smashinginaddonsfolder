@@ -1,0 +1,13 @@
+<favourites>
+    <favourite name="Choose More" thumb="special://masterprofile/smashing/smashingfavourites/icons/skins.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/smashingfavourites.py, choose)</favourite>
+    <favourite name="Switch to previous skin" thumb="special://masterprofile/smashing/smashingfavourites/icons/skins.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/skinscripts/switchskin.py, previous skin)</favourite>
+    <favourite name="Switch to Xonfluence" thumb="special://masterprofile/smashing/smashingfavourites/icons/skins.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/skinscripts/switchskin.py, skin.xonfluence, gray, gray)</favourite>
+    <favourite name="Switch to Confluence" thumb="special://masterprofile/smashing/smashingfavourites/icons/skins.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/skinscripts/switchskin.py, skin.confluence)</favourite>
+    <favourite name="Switch to Estuary" thumb="special://masterprofile/smashing/smashingfavourites/icons/skins.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/skinscripts/switchskin.py, skin.estuary)</favourite>
+    <favourite name="old Switch to Confluence" thumb="special://masterprofile/smashing/smashingfavourites/icons/skins.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/skinscripts/switchtoconfluence.py)</favourite>
+	<favourite name="old Switch to Confluence Home" thumb="special://masterprofile/smashing/smashingfavourites/icons/skins.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/skinscripts/switchtoconfluencehome.py)</favourite>
+    <favourite name="Switch to Estuary" thumb="special://masterprofile/smashing/smashingfavourites/icons/skins.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/skinscripts/switchtoestuary.py)</favourite>
+	<favourite name="Switch to Estuary Home" thumb="special://masterprofile/smashing/smashingfavourites/icons/skins.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/skinscripts/switchtoestuaryhome.py)</favourite>
+    <favourite name="old Switch to Xonfluence" thumb="special://masterprofile/smashing/smashingfavourites/icons/skins.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/skinscripts/switchtoxonfluence.py)</favourite>
+	<favourite name="old Switch to Xonfluence Home" thumb="special://masterprofile/smashing/smashingfavourites/icons/skins.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/skinscripts/switchtoxonfluencehome.py)</favourite>
+</favourites>

@@ -1,0 +1,7 @@
+<keymap>
+  <global>>
+    <keyboard>
+      <volume_mute>ActivateWindowAndFocus(2151,return)</volume_mute>
+    </keyboard>
+  </global>>
+</keymap>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<keymap>
+  <FullscreenVideo>
+    <keyboard>
+        <p>playerdebug</p>
+    </keyboard>
+    <remote>
+      <red>playerdebug</red>
+    </remote>
+  </FullscreenVideo>
+</keymap>

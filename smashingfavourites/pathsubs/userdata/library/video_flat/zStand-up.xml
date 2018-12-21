@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<node order="1" type="folder">
+  <label>Stood-up</label>
+  <icon></icon>
+  <content>movies</content>
+  <group>none</group>
+  <rule field="path" operator="startswith"><value>smb://Source Films/Standup</value></rule>
+</node>

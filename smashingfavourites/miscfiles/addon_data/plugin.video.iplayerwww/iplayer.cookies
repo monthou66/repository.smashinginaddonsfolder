@@ -1,0 +1,5 @@
+#LWP-Cookies-2.0
+Set-Cookie3: BBC-UID="854a3afed9e7068a370a1f6791c893bee64a26ab674424566a0077b25d7452040Mozilla/5.0%20(Windows%20NT%206.1%3b%20Win64%3b%20x64%3b%20rv:55.0)%20Gecko/20100101%20Firefox/55.0"; path="/"; domain=".bbc.co.uk"; path_spec; domain_dot; expires="2022-03-17 16:44:26Z"; version=0
+Set-Cookie3: ckpf_iplayer_experiments="%7B%22ibl_episode_b09w8rgs_extra_homes_s2e3%22%3Anull%2C%22iplrw_cb15_aa%22%3A%22default%22%2C%22iplrw_cb16_perf%22%3A%22none%22%7D"; path="/"; domain=".bbc.co.uk"; path_spec; domain_dot; expires="2019-03-18 16:45:05Z"; version=0
+Set-Cookie3: ckpf_mvt="bad5ac3f-5410-4e3c-9ce0-0bb72d8c1eae"; path="/"; domain=".bbc.co.uk"; path_spec; domain_dot; expires="2019-03-18 16:45:05Z"; version=0
+Set-Cookie3: _alid_="yaXkVSBqhrEgdZ6VDqrHkg=="; path="/i/iplayerstream/secure_auth/,1500kbps/modav/bUnknown-cce462cc-88b3-46c9-9f16-a94a08379998_b09w96d8_1520241078551,3200kbps/modav/bUnknown-cce462cc-88b3-46c9-9f16-a94a08379998_b09w96d8_1520241076214,.mp4.csmil/"; domain=".cp401489-vh.akamaihd.net"; path_spec; discard; version=0

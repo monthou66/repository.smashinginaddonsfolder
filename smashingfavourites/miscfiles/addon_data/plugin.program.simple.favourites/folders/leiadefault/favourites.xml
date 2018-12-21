@@ -1,0 +1,18 @@
+<favourites>
+    <favourite name="Choose More" thumb="special://masterprofile/smashing/smashingfavourites/icons/leiadefault.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/smashingfavourites.py, choose)</favourite>	
+    <favourite name="restart kodi" thumb="special://masterprofile/smashing/smashingfavourites/icons/leiadefault.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/utilityscripts/restart.py)</favourite>
+    <favourite name="Select a new skin" thumb="special://masterprofile/smashing/smashingfavourites/icons/leiadefault.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/skinscripts/switchskin.py, choose)</favourite>
+    <favourite name="Switch to previous skin" thumb="special://masterprofile/smashing/smashingfavourites/icons/leiadefault.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/skinscripts/switchskin.py, previous skin)</favourite>
+    <favourite name="Switch to Xonfluence" thumb="special://masterprofile/smashing/smashingfavourites/icons/leiadefault.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/skinscripts/switchskin.py, skin.xonfluence, gray, gray)</favourite>
+    <favourite name="Switch to Confluence" thumb="special://masterprofile/smashing/smashingfavourites/icons/leiadefault.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/skinscripts/switchskin.py, skin.confluence)</favourite>
+    <favourite name="Switch to Estuary" thumb="special://masterprofile/smashing/smashingfavourites/icons/leiadefault.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/skinscripts/switchskin.py, skin.estuary)</favourite>
+    <favourite name="Update local addons" thumb="special://masterprofile/smashing/smashingfavourites/icons/leiadefault.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/utilityscripts/updatelocaladdons.py)</favourite>
+    <favourite name="Enable addons" thumb="special://masterprofile/smashing/smashingfavourites/icons/leiadefault.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/utilityscripts/enableaddons.py)</favourite>
+    <favourite name="Enable an addon" thumb="special://masterprofile/smashing/smashingfavourites/icons/leiadefault.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/utilityscripts/enableanaddon.py)</favourite>
+    <favourite name="Disable an addon" thumb="special://masterprofile/smashing/smashingfavourites/icons/leiadefault.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/utilityscripts/enableanaddon.py, disable)</favourite>
+    <favourite name="reload keymaps" thumb="special://masterprofile/smashing/smashingfavourites/icons/leiadefault.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/keymaps/reloadkeymaps.py)</favourite>
+    <favourite name="add custom skins" thumb="special://masterprofile/smashing/smashingfavourites/icons/leiadefault.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/skinedits/addcustomskindialogs.py)</favourite>
+    <favourite name="force add custom skins" thumb="special://masterprofile/smashing/smashingfavourites/icons/leiadefault.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/skinedits/addcustomskindialogs.py, force)</favourite>
+    <favourite name="update local custom skin files" thumb="special://masterprofile/smashing/smashingfavourites/icons/skinedits.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/skinedits/updatelocal.py)</favourite>
+</favourites>
+<!--name is Custom.smashing.leiadefault2185--><!--Leia Default-->

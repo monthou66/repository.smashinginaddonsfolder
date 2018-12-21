@@ -1,0 +1,6 @@
+<favourites>
+    <favourite name="Choose More" thumb="special://masterprofile/smashing/smashingfavourites/icons/switchaddondata.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/smashingfavourites.py, choose)</favourite>
+    <favourite name="switch addon data" thumb="special://masterprofile/smashing/smashingfavourites/icons/switchaddondata.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/switchaddondata/switchaddondata.py)</favourite>
+    <favourite name="iptvsimple > fab.all" thumb="special://masterprofile/smashing/smashingfavourites/icons/switchaddondata.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/switchaddondata/switchaddondata.py, addon = pvr.iptvsimple, data = fab.all)</favourite>
+</favourites>
+<!--name is Custom.smashing.switchaddondata2177--><!--Switch addon data-->

@@ -1,0 +1,12 @@
+<favourites>
+    <favourite name="Choose More" thumb="special://masterprofile/smashing/smashingfavourites/icons/playlists.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/smashingfavourites.py, choose)</favourite>
+    <favourite name="HD Films" thumb="special://masterprofile/smashing/smashingfavourites/icons/playlists.png">ActivateWindow(10025,&quot;special://profile/playlists/video/HD Films.xsp&quot;,return)</favourite>
+    <favourite name="Recent Films" thumb="special://masterprofile/smashing/smashingfavourites/icons/playlists.png">ActivateWindow(10025,&quot;special://profile/playlists/video/Recently Added.xsp&quot;,return)</favourite>
+    <favourite name="Adult Films" thumb="special://masterprofile/smashing/smashingfavourites/icons/playlists.png">ActivateWindow(10025,&quot;special://profile/playlists/video/Adults.xsp&quot;,return)</favourite>
+	<favourite name="Family Films" thumb="special://masterprofile/smashing/smashingfavourites/icons/playlists.png">ActivateWindow(10025,&quot;special://profile/playlists/video/Family.xsp&quot;,return)</favourite>
+    <favourite name="Liam's Films" thumb="special://masterprofile/smashing/smashingfavourites/icons/playlists.png">ActivateWindow(10025,&quot;special://profile/playlists/video/Liam.xsp&quot;,return)</favourite>
+    <favourite name="Unwatched Films" thumb="special://masterprofile/smashing/smashingfavourites/icons/playlists.png">ActivateWindow(10025,&quot;special://profile/playlists/video/Unwatched.xsp&quot;,return)</favourite>
+    <favourite name="Stand-up" thumb="special://masterprofile/smashing/smashingfavourites/icons/playlists.png">ActivateWindow(10025,&quot;special://profile/playlists/video/Stand-up.xsp&quot;,return)</favourite>
+    <favourite name="Christmas Films" thumb="special://masterprofile/smashing/smashingfavourites/icons/playlists.png">ActivateWindow(10025,&quot;special://profile/playlists/video/Christmas.xsp&quot;,return)</favourite>		
+</favourites>
+<!--name is Custom.smashing.playlists2162-->

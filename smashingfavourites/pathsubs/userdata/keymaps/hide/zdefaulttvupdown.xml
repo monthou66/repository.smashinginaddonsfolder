@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<keymap>
+  <FullscreenLiveTV>
+    <keyboard>
+      <up>Back</up>	  
+      <down>Back</down>
+      <F11>RunScript(special://userdata/smashing/smashingfavourites/scripts/testscripts/testchannelswitchinsimpleiptvpvr.py)</F11>	  
+    </keyboard>
+    <remote>
+      <up>Back</up>	  
+      <down>Back</down>
+    </remote>	
+  </FullscreenLiveTV>
+</keymap>

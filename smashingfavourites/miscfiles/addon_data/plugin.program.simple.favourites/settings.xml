@@ -1,0 +1,8 @@
+<settings>
+    <setting id="add" value="true" />
+    <setting id="edit" value="true" />
+    <setting id="replace" value="" />
+    <setting id="sort" value="true" />
+    <setting id="url" value="" />
+    <setting id="version" value="0.1.13" />
+</settings>

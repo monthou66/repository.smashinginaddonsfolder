@@ -1,0 +1,1 @@
+This file stops the subfolder being processed by buildcustomdialogs.py, so it is not added to the 'Alloptions' list.

@@ -1,0 +1,5 @@
+<favourites>
+    <favourite name="Choose More" thumb="special://masterprofile/smashing/smashingfavourites/icons/libreelecpcscripts.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/smashingfavourites.py, choose)</favourite>		
+    <favourite name="Start Windows" thumb="special://masterprofile/smashing/smashingfavourites/icons/libreelecpcscripts.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/libreelecpcscripts/startwindows.py)</favourite>
+	<favourite name="Restart Windows" thumb="special://masterprofile/smashing/smashingfavourites/icons/libreelecpcscripts.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/libreelecpcscripts/restartwindows.py)</favourite>
+</favourites>

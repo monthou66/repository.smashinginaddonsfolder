@@ -1,0 +1,7 @@
+This file has the Theme, Colours and Font associated with the backup of skin.xonfluence
+Theme:
+gray
+Skincolours:
+gray
+Font:
+Skin.Font

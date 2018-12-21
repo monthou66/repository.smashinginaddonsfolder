@@ -1,0 +1,12 @@
+<favourites>
+    <favourite name="Choose More" thumb="special://masterprofile/smashing/smashingfavourites/icons/editaddons.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/smashingfavourites.py, choose)</favourite>
+    <favourite name="Edit addon" thumb="special://masterprofile/smashing/smashingfavourites/icons/editaddons.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/editaddons/smashingeditaddon.py)</favourite>
+    <favourite name="Edit addon - choose" thumb="special://masterprofile/smashing/smashingfavourites/icons/editaddons.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/editaddons/smashingeditaddon.py, choose)</favourite>
+    <favourite name="Edit addon - checkfile exists" thumb="special://masterprofile/smashing/smashingfavourites/icons/editaddons.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/editaddons/smashingeditaddon.py, wibble)</favourite>
+    <favourite name="Edit addon - configfile argument" thumb="special://masterprofile/smashing/smashingfavourites/icons/editaddons.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/editaddons/smashingeditaddon.py, configfile.wobble)</favourite>	
+    <favourite name="Edit addon - test iptvwibbley" thumb="special://masterprofile/smashing/smashingfavourites/icons/editaddons.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/editaddons/smashingeditaddon.py, pvr.iptvsimple, clone_name.wibbleypvr, clone_id.pvr.wibble, clone_version.2.1.1.2, force, disable_clone)</favourite>
+    <favourite name="Edit addon - test dvbviewerwibbley" thumb="special://masterprofile/smashing/smashingfavourites/icons/editaddons.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/editaddons/smashingeditaddon.py, pvr.dvbviewer, clone_name.wibbleydvb, clone_id.pvr.dvbwibble, clone_version.5.2.1, force, disable_clone)</favourite>
+    <favourite name="Edit Xonfluence" thumb="special://masterprofile/smashing/smashingfavourites/icons/editaddons.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/editaddons/editxonf.py)</favourite>
+    <favourite name="Restore Addon" thumb="special://masterprofile/smashing/smashingfavourites/icons/editaddons.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/editaddons/restoreaddon.py)</favourite>
+</favourites>
+<!--name is Custom.smashing.editaddon2176--><!--Edit Addons-->

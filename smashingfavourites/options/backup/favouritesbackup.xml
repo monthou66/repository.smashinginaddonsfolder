@@ -1,0 +1,5 @@
+<favourites>
+    <favourite name="Choose More" thumb="special://masterprofile/smashing/smashingfavourites/icons/backup.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/smashingfavourites.py, choose)</favourite>
+    <favourite name="Backup / Restore skin" thumb="special://masterprofile/smashing/smashingfavourites/icons/backup.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/skinscripts/smashingskinbackuprestore.py)</favourite>
+</favourites>
+<!--name is Custom.smashing.backup2153-->

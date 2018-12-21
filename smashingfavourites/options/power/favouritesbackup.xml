@@ -1,0 +1,9 @@
+<favourites>
+    <favourite name="Choose More" thumb="special://masterprofile/smashing/smashingfavourites/icons/power.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/smashingfavourites.py, choose)</favourite>
+	<favourite name="Power off system" thumb="special://masterprofile/smashing/smashingfavourites/icons/power.png">Powerdown()</favourite>
+	<favourite name="Suspend" thumb="special://masterprofile/smashing/smashingfavourites/icons/power.png">Suspend()</favourite>
+    <favourite name="Restart" thumb="special://masterprofile/smashing/smashingfavourites/icons/power.png">RunScript(special://masterprofile/smashing/smashingfavourites/scripts/utilityscripts/restart.py)</favourite>
+    <favourite name="Reboot" thumb="special://masterprofile/smashing/smashingfavourites/icons/power.png">Reset()</favourite>
+    <favourite name="Reboot from Nand" thumb="special://masterprofile/smashing/smashingfavourites/icons/power.png">System.ExecWait("/usr/sbin/rebootfromnand")</favourite><!--<visible>System.HasAddon(script.me.rebootfromnand)</visible>-->
+</favourites>
+<!--name is Custom.smashing.power2163--><!--Power-->

@@ -1,0 +1,112 @@
+<settings>
+    <setting id="10_vpn_addons" value="" />
+    <setting id="10_vpn_validated" value="" />
+    <setting id="10_vpn_validated_friendly" value="" />
+    <setting id="10_vpn_windows" value="" />
+    <setting id="1_vpn_addons" value="" />
+    <setting id="1_vpn_validated" value="/storage/.kodi/addons/service.vpn.manager/VPNUnlimited/Belgium (UDP).ovpn" />
+    <setting id="1_vpn_validated_friendly" value="Belgium (UDP)" />
+    <setting id="1_vpn_windows" value="" />
+    <setting id="2_vpn_addons" value="" />
+    <setting id="2_vpn_validated" value="/storage/.kodi/addons/service.vpn.manager/VPNUnlimited/Belarus (UDP).ovpn" />
+    <setting id="2_vpn_validated_friendly" value="Belarus (UDP)" />
+    <setting id="2_vpn_windows" value="" />
+    <setting id="3_vpn_addons" value="" />
+    <setting id="3_vpn_validated" value="/storage/.kodi/addons/service.vpn.manager/VPNUnlimited/Netherlands - Amsterdam (UDP).ovpn" />
+    <setting id="3_vpn_validated_friendly" value="Netherlands - Amsterdam (UDP)" />
+    <setting id="3_vpn_windows" value="" />
+    <setting id="4_vpn_addons" value="" />
+    <setting id="4_vpn_validated" value="/storage/.kodi/addons/service.vpn.manager/VPNUnlimited/United Kingdom - Centre - Coventry (UDP).ovpn" />
+    <setting id="4_vpn_validated_friendly" value="United Kingdom - Centre - Coventry (UDP)" />
+    <setting id="4_vpn_windows" value="" />
+    <setting id="5_vpn_addons" value="" />
+    <setting id="5_vpn_validated" value="" />
+    <setting id="5_vpn_validated_friendly" value="" />
+    <setting id="5_vpn_windows" value="" />
+    <setting id="6_vpn_addons" value="" />
+    <setting id="6_vpn_validated" value="" />
+    <setting id="6_vpn_validated_friendly" value="" />
+    <setting id="6_vpn_windows" value="" />
+    <setting id="7_vpn_addons" value="" />
+    <setting id="7_vpn_validated" value="" />
+    <setting id="7_vpn_validated_friendly" value="" />
+    <setting id="7_vpn_windows" value="" />
+    <setting id="8_vpn_addons" value="" />
+    <setting id="8_vpn_validated" value="" />
+    <setting id="8_vpn_validated_friendly" value="" />
+    <setting id="8_vpn_windows" value="" />
+    <setting id="9_vpn_addons" value="" />
+    <setting id="9_vpn_validated" value="" />
+    <setting id="9_vpn_validated_friendly" value="" />
+    <setting id="9_vpn_windows" value="" />
+    <setting id="allow_cycle_disconnect" value="true" />
+    <setting id="allow_vpn_generation" value="false" />
+    <setting id="alt_pid_check" value="false" />
+    <setting id="alternative_tcp_port" value="443" />
+    <setting id="alternative_udp_port" value="1194" />
+    <setting id="block_outside_dns" value="true" />
+    <setting id="boot_reason" value="unscheduled" />
+    <setting id="boot_time" value="2018-11-05 17:40:41" />
+    <setting id="checked_openvpn" value="true" />
+    <setting id="default_tcp" value="true" />
+    <setting id="default_udp" value="true" />
+    <setting id="display_location_on_connect" value="true" />
+    <setting id="display_window_id" value="false" />
+    <setting id="fix_system_time" value="true" />
+    <setting id="force_ping" value="true" />
+    <setting id="ip_info_source" value="Auto select" />
+    <setting id="ip_service_errors" value="0,4,4" />
+    <setting id="ip_service_last_vpn" value="VPNUnlimited" />
+    <setting id="ip_service_values" value="11,0,0" />
+    <setting id="last_boot_reason" value="unscheduled" />
+    <setting id="last_boot_text" value="Last restart was at 2018-11-05 17:40:41, unscheduled" />
+    <setting id="last_connect_time" value="1539245620" />
+    <setting id="location_ip_view" value="false" />
+    <setting id="monitor_paused" value="false" />
+    <setting id="openvpn_killall" value="false" />
+    <setting id="openvpn_log_location" value="false" />
+    <setting id="openvpn_no_path" value="false" />
+    <setting id="openvpn_sudo" value="Platform default" />
+    <setting id="openvpn_verb" value="3" />
+    <setting id="platform" value="2" />
+    <setting id="ran_openvpn" value="true" />
+    <setting id="reboot_day" value="Off" />
+    <setting id="reboot_file" value="" />
+    <setting id="reboot_file_enabled" value="false" />
+    <setting id="reboot_time" value="02:00" />
+    <setting id="show_preboot_connect" value="true" />
+    <setting id="table_display_type" value="Validated Connections" />
+    <setting id="up_down_script" value="true" />
+    <setting id="use_default_up_down" value="false" />
+    <setting id="user_def_credentials" value="true" />
+    <setting id="user_def_key_password" value="true" />
+    <setting id="user_def_keys" value="None" />
+    <setting id="version_number" value="4.4.1" />
+    <setting id="vpn_connect_at_boot" value="false" />
+    <setting id="vpn_connect_before_boot" value="false" />
+    <setting id="vpn_connect_delay" value="0" />
+    <setting id="vpn_enable_debug" value="false" />
+    <setting id="vpn_excluded_addons" value="" />
+    <setting id="vpn_excluded_windows" value="" />
+    <setting id="vpn_force_reconnect_after_wake" value="false" />
+    <setting id="vpn_locations_list" value="" />
+    <setting id="vpn_password" value="" />
+    <setting id="vpn_password_display" value="false" />
+    <setting id="vpn_password_validated" value="" />
+    <setting id="vpn_protocol" value="UDP" />
+    <setting id="vpn_provider" value="VPN Unlimited" />
+    <setting id="vpn_provider_update" value="false" />
+    <setting id="vpn_provider_validated" value="VPNUnlimited" />
+    <setting id="vpn_reconnect" value="false" />
+    <setting id="vpn_reconnect_filtering" value="false" />
+    <setting id="vpn_reconnect_freq" value="60" />
+    <setting id="vpn_reconnect_next" value="false" />
+    <setting id="vpn_reconnect_reboot" value="false" />
+    <setting id="vpn_reconnect_while_playing" value="false" />
+    <setting id="vpn_stop_ids" value="http: https:" />
+    <setting id="vpn_stop_media" value="false" />
+    <setting id="vpn_system_menu_item" value="false" />
+    <setting id="vpn_username" value="" />
+    <setting id="vpn_username_validated" value="" />
+    <setting id="vpn_wizard_run" value="true" />
+</settings>
